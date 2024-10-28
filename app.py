@@ -195,3 +195,6 @@ else:
                 "text/csv",
                 key='download-csv'
             )
+if __name__ == "__main__":
+    # You don't need to do anything here for Vercel; this will run the app automatically.
+    pass
