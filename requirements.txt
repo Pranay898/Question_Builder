@@ -1,5 +1,4 @@
 streamlit
 pandas
-sqlite3
 langchain_google_genai
 langchain_community
